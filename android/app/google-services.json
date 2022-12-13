@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050684966741",
+    "project_id": "bisaatver",
+    "storage_bucket": "bisaatver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050684966741:android:12e54b2ea614bdc73b51dc",
+        "android_client_info": {
+          "package_name": "com.cdrnine.bisaatver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050684966741-1672agi3op8ggf8ahqh3c4ffnmnrls6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEk2MHo9Aa3iquv9gsbqYo5MTMpTQMt1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050684966741-1672agi3op8ggf8ahqh3c4ffnmnrls6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

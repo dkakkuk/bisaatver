@@ -1,0 +1,1 @@
+String mainUrl = "https://bisaatver.com/app/?app";
